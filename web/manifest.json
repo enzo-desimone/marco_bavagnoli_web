@@ -1,0 +1,28 @@
+{
+    "name": "Marco Bavagnoli - Software Developer",
+    "short_name": "Marco Bavagnoli",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#184ba1",
+    "theme_color": "#184ba1",
+    "description": "I'm Marco Bavagnoli, an Italian software developer. Currently I am involved in developing apps for mobile. Take a look at my portfolio.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/apple-touch-icon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}

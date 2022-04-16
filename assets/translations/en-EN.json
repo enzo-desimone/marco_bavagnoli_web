@@ -1,0 +1,67 @@
+{
+
+  "_siteName": "Marco Bavagnoli - Software Developer",
+  "_footerText": "© Marco Bavagnoli | Developed by",
+  "_besimSoft": "Besimsoft",
+  "_name": "Marco",
+  "_surname": "Bavagnoli",
+  "_portfolioDescription": "I'm Marco Bavagnoli, an Italian software developer. Currently I am involved in developing apps for mobile. Take a look at my portfolio.",
+  "_getIt": "Get It",
+
+  "_all": "All",
+  "_android": "Android",
+  "_blackBerry": "BlackBerry",
+  "_flutterPlugins": "Flutter Plugins",
+
+  "_thirdEye": "Third Eye",
+  "_thirdEyeDescription": "Third Eye let you take funny pictures in real time. Also provide tools to sketch on taken pictures and stamp emoticons as overlay. Resulting pictures can be easily shared on social media, set as contact avatar or set as personal BBM avatar.",
+
+  "_lapseLab": "Lapse LAB",
+  "_lapseLabDescription": "Time-lapse photography is a cinematographic technique in which the capture frequency of each frame is much lower than that of reproduction. Because of this discrepancy, projection with a standard frame rate causes time in the movie to appear to run faster than normal.",
+
+  "_avatar": "Avatar",
+  "_avatarDescription": "No more limits for choosing from a few wallpapers, now you can choose from the endless images available on the web. You can build your animated GIF with your photos or images taken from the internet using the simple integrated browser. It is possible to compose the avatar frame after frame or automatically from one position to another of the image.",
+
+  "_videoGifer": "Video GIFER",
+  "_videoGiferDescription": "VideoGIFer allows you to take short video clips, customize them and convert them to the popular GIF format by creating animated memes. The result will be saved and you can use it as a BBM ™ avatar, as a contact image, set as a Twitter profile and of course shared with others! It is also possible to save in mp4 format to be shared for example on FaceBook or any other social media that supports it.",
+
+  "_videoShrinker": "Video Shirinker",
+  "_videoShrinkerDescription": "Three simple steps to resize your videos and facilitate their sharing. The more you choose a low resolution, the lower the quality, but the resulting size in Mb will be smaller and you will be able to share easily.",
+
+  "_blackBerryFr": "BlackBerry FR",
+  "_blackBerryFrDescription": "The official app of www.BlackBerry-FR.com arrived! Find all the BlackBerry news in French published on our blog. Download our native app on your BlackBerry 10 device and take it with you to stay informed daily on BlackBerry news. The B-FR app is BBM connect.",
+
+  "_berryIl": "BerryIL",
+  "_berryIlDescription": "Download the new app for Israel’s top BlackBerry® community site – berryil.com. We are proud to bring you news, apps, OSs, rumors and much more on a daily basis and in Hebrew. The articles in this app are written in Hebrew language.",
+
+  "_snap2Share": "Snap2Share",
+  "_snap2ShareDescription": "The app is headless and can be invoked when taking a screenshot or photo (selectable in settings). You can easily superimpose the image as a watermark (overlay) or write the text with a wide range of characters to easily create memes for example. It is also possible to draw with blur, motion blur or highlight parts of the image (for example text) with a freehand instrument, with rectangles, ellipses or even with predefined stamp images (such as animals, smiles).",
+
+  "_superTube": "SuperTube",
+  "_superTubeDescription": "SuperTube represents the unofficial youtube app. With supertube you can manage your youtube profile, comment, like and so much more.",
+
+  "_wizzy": "Wizzy",
+  "_wizzyDescription": "This app helps you cook your own Eliquids and keep track of our amount of flavor with a convenient Basket.",
+
+  "_selenium": "Selenium Music Player",
+  "_seleniumDescription": "Selenium Music Player is a player capable of organizing, playing and personalizing your favorite music. Among the many features, there is the possibility to change many audio settings.",
+
+  "_fatturaElett": "Fattura Elettronica",
+  "_fatturaElettDescription": "Raccogli, visualizza e archivia le fatture elettroniche in modo semplice e veloce.",
+
+  "_starMenu": "Star_Menu",
+  "_starMenuDescription": "Contextual popup menu with different shapes and multiple ways to fine-tune animation and position. The menu entries can be almost any kind of widgets.",
+
+  "_yoda": "Yoda",
+  "_yodaDescription": "Flutter widget that let you slice any kind of child widget in a matrix of tiles and animate them with different kind of ways. Currently with Explode, Vortex and Flakes. Works on all platforms.",
+
+  "_magnGlass": "Magnifying_Glass",
+  "_magnGlassDescription": "Flutter real-time magnifying glass lens widget with Barrel/Pincushion distortion. Works on Android, iOS and desktop. Doesn't work yet on web (help needed with web FFI).",
+
+  "_blurMatrix": "Blur_Matrix",
+  "_blurMatrixDescription": "A Flutter widget that draws a matrix of colors like gradients also with simple animation.",
+
+  "_fingerPainter": "Finger_Painter",
+  "_fingerPainterDescription": "Painting package that let you finger paint with different brushes and different blend modes. The result can be read as a bitmap or list of Points to be used ie on a Map."
+
+}
